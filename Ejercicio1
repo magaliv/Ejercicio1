@@ -1,0 +1,11 @@
+Algoritmo suma
+	escribir "Ingrese el primer numero"
+	Leer num1
+	escribir "Ingrese el segundo numero"
+	leer num2 
+	
+	resultado = num1 + num2
+	Imprimir "el resultado es:" resultado
+	
+	
+Finalgoritmo
